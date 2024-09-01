@@ -70,7 +70,6 @@ The crops productivity in each district.
 
 The crops yield in each district.
 
-View crops productivity verses population.
 
 
 ![dashboard](https://github.com/user-attachments/assets/a796f8c8-56b4-47e9-89fa-aa3bea214c71)
